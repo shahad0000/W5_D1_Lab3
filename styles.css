@@ -2,8 +2,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 3rem;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
 }
 
 .card {
@@ -11,5 +10,6 @@
 }
 
 .img {
-    width: 50%;
+    width: 10rem;
+    height: 10rem;
 }
