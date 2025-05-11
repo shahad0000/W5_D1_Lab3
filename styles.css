@@ -1,0 +1,11 @@
+#container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.card {
+    background-color: rgb(99, 11, 30);
+}
+
+.img {
+}
